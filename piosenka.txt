@@ -4,5 +4,4 @@ ref1.txt
 
 zwr2.txt
 
-Pokój nam panowie
-Pokój z kul¹ w g³owie
+ref2.txt
