@@ -1,7 +1,6 @@
 zwr1.txt
 
-Pokój nam panowie
-Pokój z kul¹ w g³owie
+ref1.txt
 
 Zapada noc nad œwiatem
 To Bogów wojny znowu wezwa³ ktoœ
