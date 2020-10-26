@@ -1,3 +1,1 @@
 pierwsza linia w c.txt
-
-trzecia linia w c.txt
