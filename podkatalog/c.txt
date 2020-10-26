@@ -1,3 +1,4 @@
 pierwsza linia w c.txt
-
+druga
 trzecia linia w c.txt
+czwarta
