@@ -1,1 +1,1 @@
-pierwsza linia w a.txt
+pierwsza linia w a.txt - dodane do linii w bocznej-drugiej
